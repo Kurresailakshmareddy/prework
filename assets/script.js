@@ -14,6 +14,7 @@ if (topic === 'HTML') {
 } else {
     console.log('Please try again!');
 }
+
 */
 
 var topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
